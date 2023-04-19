@@ -1,0 +1,81 @@
+id,name,address,description,tenant_id,type_id
+1,Apartment Citadines Bali,sesuai alamat,sesuai penjelasan,1,1
+2,Apartment Coast Bali,sesuai alamat,penjelasaannya,1,1
+3,Apartment Suji Bali,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+4,Apartment The Vinhill Bali,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+5,Guest House Authentic Vibes Bali,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+6,Guest House Fire Place Bali,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+7,Guest House Garden Mahe Bali,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+8,Guest House Melasti Bali,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+9,Hotel Aston Bali,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+10,Hotel Potato Head Bali,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+11,Hotel Swiss Bell Bali,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+12,Hotel The Apurva Bali,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+13,Villa Hideaway Bali,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+14,Villa Stunning Bali,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+15,Villa Uluwatu Surf Bali,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+16,Villa Wisa Bali,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+17,Apartment Emerald Apartel Bandung,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+18,Apartment Gateway Bandung,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+19,Apartment Tamansari Narel Bandung,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+20,Apartment The Suites Metro Bandung,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+21,Guest House Incognito Bandung,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+22,Guest House Jendela Pakar Bandung,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+23,Guest House Syllo2 Bandung,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+24,Guest House Yucca Bandung,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+25,Hotel GAIA Bandung,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+26,Hotel Hilton Bandung,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+27,Hotel Intercontinental Bandung,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+28,Hotel Marriot Bandung,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+29,Villa Bumi Andung Bandung,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+30,Villa De Rossa Bandung,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+31,Villa Miracle Bandung,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+32,Villa The Lodge Bandung,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+33,Apartment Batavia Jakarta,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+34,Apartment Botanica Jakarta,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+35,Apartment Gandaria Heights Jakarta,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+36,Apartment The Hive Jakarta,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+37,Guest House MK House Jakarta,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+38,Guest House Rumah Bumi Jakarta,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+39,Guest House Rumah Perdana Jakarta,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+40,Guest House West House Jakarta,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+41,Hotel Artotel Jakarta,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+42,Hotel Borobudur Jakarta,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+43,Hotel Mulia Jakarta,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+44,Hotel The Langham Jakarta,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+45,Villa Kasandra Jakarta,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+46,Villa Little Bali Jakarta,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+47,Villa Nuri Jakarta,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+48,Villa Rumatata Jakarta,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+49,Apartment Ciputra Surabaya,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+50,Apartment Orchard Surabaya,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+51,Apartment Pakuwon Surabaya,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+52,Apartment Rose Bay Surabaya,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+53,Guest House Ayyub Surabaya,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+54,Guest House Cheerful Surabaya,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+55,Guest House Kebon Sari Surabaya,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+56,Guest House Natura Surabaya,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+57,Hotel Doubletree Surabaya,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+58,Hotel Shangri-la Surabaya,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+59,Hotel Vasa Surabaya,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+60,Hotel Wyndam Surabaya,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+61,Villa Esayuri Surabaya,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+62,Villa Kertajaya Surabaya,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+63,Villa Raka Surabaya,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+64,Villa Ruma Manis Surabaya,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+65,Apartment Jowo Klutuk Yogyakarta,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+66,Apartment Roten Yogyakarta,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+67,Apartment Student Castle Yogyakarta,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+68,Apartment V Yogyakarta,sesuai addressnya ya,penjelasan tentang propertynya,1,1
+69,Guest House Chipmunk Yogyakarta,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+70,Guest House Omah Tentrem Yogyakarta,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+71,Guest House Riverside Yogyakarta,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+72,Guest House Tasteful Yogyakarta,sesuai addressnya ya,penjelasan tentang propertynya,2,2
+73,Hotel Ambarrukmo Yogyakarta,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+74,Hotel Elroyale Yogyakarta,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+75,Hotel Hyatt Yogyakarta,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+76,Hotel Lafayette Yogyakarta,sesuai addressnya ya,penjelasan tentang propertynya,1,3
+77,Villa Portum Yogyakarta,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+78,Villa Teduh Yogyakarta,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+79,Villa Tembi Yogyakarta,sesuai addressnya ya,penjelasan tentang propertynya,2,4
+80,Villa Tibra Yogyakarta,sesuai addressnya ya,penjelasan tentang propertynya,2,4

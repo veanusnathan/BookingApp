@@ -1,0 +1,9 @@
+id,name
+1,Confirmed
+2,Paid
+3,Cancel
+4,Waiting Payment
+5,On Going
+6,Stop
+7, Waiting Approval
+8,Rejected

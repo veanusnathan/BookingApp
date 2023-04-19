@@ -1,0 +1,429 @@
+.single-page-pic {
+  float: left !important;
+  width: 14.5rem !important;
+  height: 200px !important;
+  object-fit: cover !important;
+}
+
+.single-page-name {
+  text-transform: uppercase;
+  left: 9rem;
+  top: 7.5rem;
+  position: relative !important;
+}
+
+.basicDeatils {
+  width: 25rem !important;
+  height: 6rem !important;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  display: flex;
+  position: relative;
+  left: 4rem;
+  top: 5rem ;
+  gap: 3rem;
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+}
+.fof{
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+
+}
+
+.single-page-price {
+  position: absolute;
+  width: auto;
+}
+
+.single-page-hold {
+  position: absolute;
+  top: 10rem;
+  left: 48rem;
+  gap: 9%;
+  flex-wrap: wrap;
+  width: auto;
+
+}
+
+.single-page-pic {
+  margin-bottom: 5%;
+}
+
+
+.single-page-main-pic {
+  width: 42.5rem;
+  height: 32rem;
+  position: absolute;
+  left: 3rem;
+  top: 10rem;
+  border: none;
+  border-radius: 12px !important;
+}
+
+
+.single-page-star {
+  top: 10.6rem;
+  left: 7.4rem;
+}
+
+.single-page-review {
+  top: 10.1rem;
+  font-size: 21px;
+  font-weight: 400;
+  left: 9.5rem;
+}
+
+.single-page-rev-text {
+  position: absolute;
+  top: 10.4rem;
+  left: 15rem;
+  color: #c9403e;
+  font-weight: 600;
+  font-size: 19px;
+}
+
+.super-host {
+  position: absolute;
+  top: 13rem;
+  font-weight: 500;
+  font-size: 24px;
+  left: 8rem;
+}
+
+.heart {
+  color: black;
+  font-size: 38px;
+  position: absolute;
+  top: 13rem;
+  left: 17.5rem;
+}
+
+.features-text {
+  position: absolute;
+  top: 43rem;
+  left: 7rem;
+}
+
+.actual-features {
+  position: absolute;
+  top: 45rem;
+  left: 7rem;
+}
+
+.line1 {
+  position: absolute;
+  top: 46rem;
+  left: 6rem;
+}
+
+.line2 {
+  position: absolute;
+  top: 66rem;
+  left: 5rem;
+}
+
+.feature-hold {
+  position: absolute;
+  top: 50rem;
+}
+
+.icon-hold {
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+  position: absolute;
+  top: 48rem;
+  left: 8rem;
+}
+
+.heading-hold {
+  position: absolute;
+  top: 48rem;
+  display: flex;
+  flex-direction: column;
+  left: 12rem;
+  gap: 5rem;
+
+}
+
+.description-hold {
+  position: absolute;
+  top: 51rem;
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+  left: 12rem;
+  flex-wrap: wrap;
+  font-style: italic;
+
+}
+
+.s {
+  position: absolute;
+  top: 98rem;
+  left: 37rem;
+}
+
+.rdrInputRanges {
+  display: none;
+}
+
+.side-box-card {
+  top: 47rem;
+  background-color: white;
+  width: 25rem;
+  height: 25rem;
+  left: 60rem;
+  border: 1px solid rgb(221, 221, 221);
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: rgb(0 0 0 / 12%) 0px 6px 16px;
+}
+
+.rdrStaticRanges {
+  box-shadow: rgb(0 0 0 / 12%) 0px 6px 16px;
+  border: 1px solid rgb(221, 221, 221);
+
+
+}
+
+.ab {
+  position: absolute;
+  display: flex;
+  gap: 1rem;
+  width: 50%;
+  flex-wrap: nowrap;
+  left: 11.3rem;
+  top: 2rem;
+}
+
+.rev-card {
+  top: 1.6rem;
+  left: 13rem;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.rev2-card {
+  position: absolute;
+  top: 1.6rem;
+  left: 16rem;
+  display: flex;
+  width: 25%;
+  justify-content: center;
+}
+
+.reserve-date-button-holder {
+  position: absolute;
+  top: 63rem;
+  left: 67rem;
+  width: 12rem;
+}
+
+.reserve-date-button {
+  background-color:#c9403e;
+  height: 3.5rem;
+  width: 12rem;
+  transition: 400ms;
+  font-weight: 600;
+  font-size: 18px;
+  color: white;
+
+}
+
+.reserve-date-button:hover {
+  transform: scale(1.1);
+}
+
+.calendarHolder {
+  position: absolute;
+  top: -31rem;
+  left: 23rem;
+  z-index: 9999999999999999999;
+}
+
+.calendarHolder2 {
+  z-index: 99999999;
+}
+
+
+.rdrDateDisplayWrapper {
+  z-index: 100
+}
+
+
+.days-0 {
+  position: absolute;
+  top: -18.5rem;
+  width: 7.8rem;
+  left: 15rem;
+}
+
+.days-updated {
+  position: absolute;
+  top: 1rem;
+  width: 7.8rem;
+  left: 15rem;
+}
+
+
+
+.expense-title-hold {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  top: 58.5rem;
+  left: 64rem;
+}
+
+.calculated-expense-hold {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  top: 58.2rem;
+  left: 73rem;
+}
+
+.line-total {
+  position: absolute;
+  top: 66rem;
+  left: 60rem;
+}
+
+.price-total-text {
+  top: 68.5rem;
+  left: 63rem;
+}
+
+.price-total {
+  top: 68.5rem;
+  left: 67.6rem;
+}
+
+.daysSelected {
+  position: absolute;
+  top: 1rem;
+  left: 18rem;
+  width: 2rem;
+
+}
+
+@media only screen and (max-width: 600px) {
+  .single-page-pic {
+    float: none !important;
+    width: 100% !important;
+    height: auto !important;
+    object-fit: cover !important;
+    margin-bottom: 5%;
+  }
+
+  .single-page-hold {
+    position: static !important;
+    gap: 5%;
+    width: auto;
+  }
+
+  .single-page-main-pic {
+    width: 100%;
+    height: auto;
+    position: static;
+    border-radius: 12px !important;
+  }
+
+  .super-host,
+  .heart {
+    position: static;
+    margin: 2% 0;
+  }
+
+  .features-text,
+  .actual-features,
+  .line1,
+  .line2 {
+    position: static;
+    margin: 5% 0;
+    width: 100%;
+    text-align: center;
+  }
+
+  .feature-hold {
+    position: static;
+    margin: 5% 0;
+  }
+
+  .icon-hold,
+  .heading-hold,
+  .description-hold {
+    position: static;
+    margin: 5% 0;
+    width: 100%;
+  }
+
+  .reserve-date-button-holder {
+    position: static;
+    margin: 5% 0;
+    text-align: center;
+  }
+
+  .reserve-date-button {
+    height: auto;
+    width: 100%;
+  }
+
+  .calendarHolder {
+    position: static;
+    margin: 5% 0;
+  }
+
+  .expense-title-hold,
+  .calculated-expense-hold,
+  .line-total,
+  .price-total-text,
+  .price-total {
+    position: static;
+    margin: 5% 0;
+    width: 100%;
+    text-align: center;
+  }
+
+  .daysSelected {
+    position: static;
+    margin: 5% auto;
+    width: auto;
+  }
+  
+  .single-page-name,
+  .basicDeatils ,
+  .fof,
+  .single-page-star,
+  .single-page-review ,
+  .single-page-rev-text ,
+  .side-box-card ,
+  .rev-card,
+  .rev2-card {
+    position: static !important;
+    width: 100% !important;
+    left: 0 !important;
+    top: 0 !important;
+  }
+
+  .ab {
+    position: static !important;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5% !important;
+    width: 100% !important;
+    margin: 5% 0 !important;
+    left: 0 !important;
+  }
+
+  .days-0,
+  .days-updated {
+    position: static !important;
+    margin: 5% 0 !important;
+    left: 0 !important;
+    top: 0 !important;
+    width: 100% !important;
+  }
+}

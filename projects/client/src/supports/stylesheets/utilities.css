@@ -1,0 +1,116 @@
+:root{
+    --main : #c9403e;
+    --secondary : #92B4EC;
+    --light1 : #FEFEFE;
+    --light2 : #FEFFE4;
+    --button : #A3DE83;
+    --button-dark : #2EB872;
+    --rating : #FFD24C;
+    --rating-light : #FFE69A;
+}
+
+/* My card */
+.cards{
+    box-shadow: 0px 3px 10px rgb(0 0 0/0.2);
+}
+
+/* My Background Color */
+.my-bg-main{
+    background-color: var(--main);
+}
+
+.my-bg-secondary{
+    background-color: var(--secondary);
+}
+
+.my-bg-light{
+    background-color: var(--light1);
+}
+
+.my-bg-light1{
+    background-color: var(--light2);
+}
+
+.my-bg-button{
+    background-color: var(--button);
+}
+
+.my-bg-button-dark{
+    background-color: var(--button-dark);
+}
+
+.my-bg-rating{
+    background-color: var(--rating);
+}
+
+.my-bg-rating-light{
+    background-color: var(--rating-light);
+}
+
+/* My Font Color */
+.my-main{
+    color: var(--main)
+}
+
+.my-secondary{
+    color: var(--secondary)
+}
+
+.my-light{
+    color: var(--light1) !important
+}
+
+.my-light1{
+    color: var(--light2) !important
+}
+
+.my-button{
+    color: var(--button);
+}
+
+.my-button-dark{
+    color: var(--button-dark)
+}
+
+.my-rating{
+    color: var(--rating)
+}
+
+.my-rating-light{
+    color: var(--rating-light)
+}
+
+/* My Font Size */
+.my-fs-10{
+    font-size: 10px;
+}
+
+.my-fs-12{
+    font-size: 12px;
+}
+
+.my-fs-15{
+    font-size: 15px;
+}
+
+.my-fs-16{
+    font-size: 16px;
+}
+
+.my-fs-18{
+    font-size: 18px;
+}
+
+.my-fs-20{
+    font-size: 20px;
+}
+
+.my-fs-25{
+    font-size: 25px;
+}
+
+.my-fs-30{
+    font-size: 30px;
+}
+
+/* Cards */

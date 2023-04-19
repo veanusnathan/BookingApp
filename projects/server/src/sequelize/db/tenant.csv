@@ -1,0 +1,3 @@
+id,first_name,last_name,picture_path,email,address,password,phone_number,status,ktp_path,otp_code,otp_created_at,role,createdAt,upddatedAt
+1,gilang,ramadhan,,tester@,jauh,tes123,08888,,,14356,2023-02-21 14:16:48,,2023-02-21 14:16:48,2023-02-21 14:16:48
+2,anjar,jtp,,tester123@,jauh juga,tes1234,08888,,,12345,2023-02-21 14:16:48,,2023-02-21 14:16:48,2023-02-21 14:16:48

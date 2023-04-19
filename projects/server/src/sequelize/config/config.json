@@ -1,0 +1,37 @@
+{
+  "development": {
+    "username": "root",
+    "password": "jcwd2302",
+    "database": "property_renting_web_app",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "dialectOptions": {
+	"useUTC": false
+     },
+    "timezone": "+07:00"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "jcwd230203",
+    "password": "group03",
+    "database": "jcwd230203",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "dialectOptions": {
+	"options": {
+        	"requestTimeout": 5000
+        }
+    },
+    "pool": {
+    	"max": 10,
+    	"min": 0,
+    	"idle": 10000
+    }
+  }
+}

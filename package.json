@@ -1,0 +1,32 @@
+{
+  "name": "final-project-template",
+  "scripts": {
+    "start": "lerna run start --stream",
+    "build": "lerna run build --stream",
+    "serve": "lerna run serve --stream",
+    "clean": "lerna clean --y",
+    "test": "lerna run test",
+    "install:server": "lerna add --scope=server",
+    "install:client": "lerna add --scope=client",
+    "install:server:dev": "lerna add --scope=server --dev",
+    "install:client:dev": "lerna add --scope=client --dev",
+    "server": "lerna exec --scope server yarn",
+    "client": "lerna exec --scope client yarn"
+  },
+  "private": true,
+  "devDependencies": {
+    "lerna": "^5.4.0"
+  },
+  "workspaces": [
+    "projects/*"
+  ],
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.3.0",
+    "@fullcalendar/react": "^6.1.4",
+    "@popperjs/core": "^2.11.6",
+    "chart.js": "^2.9.4",
+    "fullcalendar": "^6.1.4",
+    "react-hook-form": "^7.43.4",
+    "react-slick": "^0.29.0"
+  }
+}

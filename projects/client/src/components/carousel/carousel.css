@@ -1,0 +1,7 @@
+/* CSS added only for */
+.-skew-x-12 {
+  transform: skewX(-12deg);
+}
+.skew-x-12 {
+  transform: skewX(12deg);
+}

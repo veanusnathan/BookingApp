@@ -1,0 +1,242 @@
+
+.spmLine{
+    position: absolute;
+    top: 82rem;
+    left: 5rem;
+    }
+    
+    .spmLine2{
+        position: absolute;
+        top: 90rem;
+        left: 5rem;
+    
+    }
+    
+    .section1-hold{
+        position: absolute;
+        top: 70rem;
+        display: flex;
+        flex-direction: column;
+        gap: 2.5rem;
+        left: 6rem;
+        flex-wrap: wrap;
+        width: 40%;
+    }
+    
+    .section2-hold{
+        position: absolute;
+        top: 85rem;
+        display: flex;
+        flex-direction: column;
+        gap: 2.5rem;
+        flex-wrap: wrap;
+        left: 5.5rem;
+        width: 45%;
+    
+    }
+    
+    .section3{
+        position: absolute;
+        top: 90rem;
+    }
+    
+    .spmLine3{
+        position: absolute;
+        top: 115rem;
+        left: 5rem;
+    }
+    
+    .spm-star{
+        position: absolute;
+        top: 120.2rem;
+        left: 16rem;
+    }
+    
+    .spm-rev{
+        position: absolute;
+        top: 128rem;
+        left: 9rem;
+        font-weight: 400;
+    }
+    
+    .star-calc-hold{
+        position: absolute;
+        display: flex;
+        gap: 3rem;
+        left: 6rem;
+        top: 130rem;
+        width: auto;
+        
+    }
+    
+    .spm-pic{
+        width: 31rem;
+    }
+    
+    .review-hold{
+        position: absolute;
+        top: 117rem;
+        /* margin: auto; */
+        right: 10rem;
+        left: 5rem;
+    }
+    
+    .spm-review{
+        width: 58rem;
+    }
+    
+    .spm-rev-btn{
+        position: absolute;
+        top: 191rem;
+        left: 10rem;
+        width: 13rem;
+        height: 4rem;
+        font-weight: 600;
+    }
+    
+    .agg{
+        position: absolute;
+        top: 0rem;
+        width: 100rem !important;
+    }
+    
+    .close-cal{
+        background-color: #c9403e;
+        height: 3.5rem;
+        width: 12rem;
+        transition: 400ms;
+        font-weight: 600;
+        font-size: 18px;
+        color: white;
+        top: 26rem;
+        position: relative;
+        left: -18.5rem;
+    }
+    
+    .checkout-btn{
+        background-color: #c9403e;
+        height: 3.8rem;
+        width: 12rem;
+        transition: 400ms;
+        font-weight: 600;
+        font-size: 18px;
+        color: white;
+        left: 19rem !important;
+        margin-top: 1rem;
+        position: absolute;
+    
+    }
+    
+    .checkout-btn-after{
+        top: 25.8rem;
+        position: absolute;
+        background-color: #c9403e;
+        height: 3.8rem;
+        width: 12rem;
+        transition: 400ms;
+        font-weight: 600;
+        font-size: 18px;
+        color: white;
+        left: 6.5rem !important;
+        border-radius: 14px;
+    }
+    
+    
+    @media only screen and (max-width: 600px) {
+        .spmLine,
+        .spmLine2,
+        .spmLine3 {
+          position: static;
+          margin: 5% 0;
+          top: 0 !important;
+          left: 0 !important;
+        }
+      
+        .section1-hold,
+        .section2-hold {
+          position: static;
+          margin: 5% 0;
+          top: 0 !important;
+          left: 0 !important;
+          width: 100%;
+        }
+      
+        .section2-hold {
+          margin-top: 10%;
+        }
+      
+        .section3 {
+          position: static;
+          margin: 5% 0;
+          top: 0 !important;
+          left: 0 !important;
+        }
+      
+        .spm-star,
+        .review-hold,
+        .checkout-btn {
+          position: static;
+          margin: 5% 0;
+          top: 0 !important;
+          left: 0 !important;
+          width: 100%;
+        }
+      
+        .star-calc-hold {
+          position: static;
+          margin: 5% 0;
+          top: 0 !important;
+          left: 0 !important;
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          gap: 2.5%;
+        }
+      
+        .spm-pic {
+          width: 100%;
+        }
+      
+        .spm-review {
+          width: 100%;
+          margin-bottom: 5%;
+        }
+      
+        .spm-rev-btn {
+          position: static;
+          margin: 5% 0;
+          top: 0 !important;
+          left: 0 !important;
+          width: 100%;
+        }
+      
+        .agg {
+          position: static;
+          margin: 5% 0;
+          top: 0 !important;
+          left: 0 !important;
+          width: 100% !important;
+        }
+      
+        .close-cal {
+          position: absolute;
+          margin: 5% 0;
+          top: 26%;
+          left: -18.5%;
+          width: 100%;
+        }
+      
+        .checkout-btn-after {
+          top: 25.8rem;
+          position: absolute;
+          background-color: #c9403e;
+          height: auto;
+          width: 100%;
+          transition: 400ms;
+          font-weight: 600;
+          font-size: 18px;
+          color: white;
+          left: 0 !important;
+          border-radius: 14px;
+        }
+      }
